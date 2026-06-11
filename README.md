@@ -1,1 +1,1 @@
-# docker-hub
+Supplementary files for docker hub images.
